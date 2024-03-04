@@ -2,44 +2,49 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "BilbasenNew/1.0.0": {
+      "Class Domain Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/BilbasenNew.dll": {}
+          "bin/placeholder/Class Domain Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BilbasenNew.dll": {}
+          "bin/placeholder/Class Domain Models.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "BilbasenNew/1.0.0": {
+    "Class Domain Models/1.0.0": {
       "type": "project",
-      "path": "../BilbasenNew/BilbasenNew.csproj",
-      "msbuildProject": "../BilbasenNew/BilbasenNew.csproj"
+      "path": "../Class - Domain Models/Class Domain Models.csproj",
+      "msbuildProject": "../Class - Domain Models/Class Domain Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "BilbasenNew >= 1.0.0"
+      "Class Domain Models >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mikke\\.nuget\\packages\\": {}
+    "C:\\Users\\MAGS\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikke\\Documents\\GitHub\\bilbasenkonsol-mikkelkonyher\\BilbasenKonsol.csproj",
+      "projectUniqueName": "C:\\Users\\MAGS\\Documents\\GitHub\\bilbasenkonsol-mikkelkonyher\\BilbasenKonsol.csproj",
       "projectName": "BilbasenKonsol",
-      "projectPath": "C:\\Users\\mikke\\Documents\\GitHub\\bilbasenkonsol-mikkelkonyher\\BilbasenKonsol.csproj",
-      "packagesPath": "C:\\Users\\mikke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikke\\Documents\\GitHub\\bilbasenkonsol-mikkelkonyher\\obj\\",
+      "projectPath": "C:\\Users\\MAGS\\Documents\\GitHub\\bilbasenkonsol-mikkelkonyher\\BilbasenKonsol.csproj",
+      "packagesPath": "C:\\Users\\MAGS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MAGS\\Documents\\GitHub\\bilbasenkonsol-mikkelkonyher\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\mikke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MAGS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -47,14 +52,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\mikke\\Documents\\GitHub\\BilbasenNew\\BilbasenNew.csproj": {
-              "projectPath": "C:\\Users\\mikke\\Documents\\GitHub\\BilbasenNew\\BilbasenNew.csproj"
+            "C:\\Users\\MAGS\\Documents\\GitHub\\Class - Domain Models\\Class Domain Models.csproj": {
+              "projectPath": "C:\\Users\\MAGS\\Documents\\GitHub\\Class - Domain Models\\Class Domain Models.csproj"
             }
           }
         }
@@ -63,11 +69,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -89,16 +90,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\mikke\\Documents\\GitHub\\bilbasenkonsol-mikkelkonyher\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

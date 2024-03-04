@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BilbasenNew\BilbasenNew.csproj" />
+    <ProjectReference Include="..\Class - Domain Models\Class Domain Models.csproj" />
   </ItemGroup>
 
 </Project>

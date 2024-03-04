@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BoGe7L2kW1lHg8JdMdxs7+vUIE/aT2dyg/qhPh0WjsX8hQMAnpf3M4U+pZv1UKlH7J+ihBWClwmpgkTSxZnRdg==",
+  "dgSpecHash": "/bNq3k0kynZ+5/JP1cwacc10PFd9XmqxkOJMXfUXxQ6sDwUTt1/dJnh0ainnHATf0Ot7KW5DM1f74FkQDH7Bnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mikke\\Documents\\GitHub\\bilbasenkonsol-mikkelkonyher\\BilbasenKonsol.csproj",
+  "projectFilePath": "C:\\Users\\MAGS\\Documents\\GitHub\\bilbasenkonsol-mikkelkonyher\\BilbasenKonsol.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\mikke\\Documents\\GitHub\\bilbasenkonsol-mikkelkonyher\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
