@@ -137,10 +137,7 @@ namespace BilbasenKonsol
                 {
                     Console.WriteLine($"Brand: {car.Brand}, Model: {car.Model}, Year: {car.Year}, Color: {car.Color}, Horsepower: {car.HorsePower}");
                 }
-
-                
-
-                
+            
             }
             //Console.WriteLine(firstCarCounter);
         }
