@@ -139,9 +139,9 @@ namespace BilbasenKonsol
                 {
                     GasolineCar gasolineCar = (GasolineCar)obj;
 
-                    if(gasolineCar.Year <= 1999 &&  gasolineCar.Year >= 1980)
+                    if(gasolineCar.GetYear() <= 1999 &&  gasolineCar.GetYear() >= 1980)
                     {
-                        Console.WriteLine($"{gasolineCar.Brand} {gasolineCar.Model} {gasolineCar.Year} {gasolineCar.Color} {gasolineCar.HorsePower} {gasolineCar.NumberOfCylinders}");
+                        Console.WriteLine($"{gasolineCar.GetBrand()} {gasolineCar.GetModel()} {gasolineCar.GetYear()} {gasolineCar.GetColor()} {gasolineCar.GetHorsePower()} {gasolineCar.GetNumberOfCylinders}");
                     }
 
                     //if (gasolineCar == list[0])
