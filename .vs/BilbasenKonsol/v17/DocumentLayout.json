@@ -6,12 +6,12 @@
       "AbsoluteMoniker": "D:0:0:{F3C9D6C9-A8AC-4168-A875-7F8DFC96C755}|..\\BilbasenNew2\\BilbasenNew2.csproj|c:\\users\\mikke\\documents\\github\\bilbasennew2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEDC90C4-CEA8-493B-901E-78CCFA3FF02A}|BilbasenKonsol.csproj|c:\\users\\mikke\\documents\\github\\bilbasenkonsol-mikkelkonyher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEDC90C4-CEA8-493B-901E-78CCFA3FF02A}|BilbasenKonsol.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DEDC90C4-CEA8-493B-901E-78CCFA3FF02A}|BilbasenKonsol.csproj|c:\\users\\mikke\\documents\\github\\bilbasenkonsol-mikkelkonyher\\bilbasenkonsol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DEDC90C4-CEA8-493B-901E-78CCFA3FF02A}|BilbasenKonsol.csproj|solutionrelative:bilbasenkonsol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDC90C4-CEA8-493B-901E-78CCFA3FF02A}|BilbasenKonsol.csproj|c:\\users\\mikke\\documents\\github\\bilbasenkonsol-mikkelkonyher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDC90C4-CEA8-493B-901E-78CCFA3FF02A}|BilbasenKonsol.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +25,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "BilbasenKonsol.csproj",
               "DocumentMoniker": "C:\\Users\\mikke\\Documents\\GitHub\\bilbasenkonsol-mikkelkonyher\\BilbasenKonsol.csproj",
               "RelativeDocumentMoniker": "BilbasenKonsol.csproj",
@@ -33,7 +33,9 @@
               "RelativeToolTip": "BilbasenKonsol.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-04T10:32:56.492Z"
+              "WhenOpened": "2024-03-04T10:32:56.492Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -43,20 +45,20 @@
               "RelativeDocumentMoniker": "..\\BilbasenNew2\\Class1.cs",
               "ToolTip": "C:\\Users\\mikke\\Documents\\GitHub\\BilbasenNew2\\Class1.cs",
               "RelativeToolTip": "..\\BilbasenNew2\\Class1.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA4AAAAtAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T10:31:49.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mikke\\Documents\\GitHub\\bilbasenkonsol-mikkelkonyher\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\mikke\\Documents\\GitHub\\bilbasenkonsol-mikkelkonyher\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABIAAAA",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAQwGYAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T10:30:15.147Z",
               "EditorCaption": ""

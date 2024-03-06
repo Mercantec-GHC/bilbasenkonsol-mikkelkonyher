@@ -100,6 +100,8 @@ namespace BilbasenKonsol
             string firstCarBrand = "";
             int amountOfFirstCarBrand = 0;
 
+  
+
 
             foreach (object obj in list)
             {
@@ -107,9 +109,9 @@ namespace BilbasenKonsol
                 {
                     ElectricCar electricCar = (ElectricCar)obj;
 
-                    if(electricCar.Year <= 1999 && electricCar.Year >= 1980)
+                    if(electricCar.GetYear() <= 1999 && electricCar.GetYear() >= 1980)
                     {
-                        Console.WriteLine($"{electricCar.Brand} {electricCar.Model} {electricCar.Year} {electricCar.Color} {electricCar.HorsePower} {electricCar.BatteryCapacity}");
+                        Console.WriteLine($"{electricCar.GetBrand()} {electricCar.GetModel()} {electricCar.GetYear()} {electricCar.GetColor()} {electricCar.GetHorsePower()} {electricCar.GetBatteryCapacity()}");
                     }
 
                     //if (electricCar == list[0])
